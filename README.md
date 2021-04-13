@@ -1,2 +1,2 @@
-# thanhkinh
+# ThanhKinh
 Kinh THanh Vietnamese bible
