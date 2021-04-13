@@ -1,2 +1,2 @@
 # ThanhKinh
-Kinh THanh Vietnamese bible
+Kinh Thanh Vietnamese Bible
